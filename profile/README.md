@@ -35,8 +35,8 @@ Here’s what you’ll find inside this organization:
 ---
 
 ## 🤝 Connect With Me  
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link-here)  
-- 📂 [Main GitHub Profile](https://github.com/your-dev-profile) (for software dev work)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/oluwapelumi-adejumo-402284235/)  
+
 
 ---
 
