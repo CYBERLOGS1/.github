@@ -1,5 +1,5 @@
 # 🛡️ Pelumi’s Cybersecurity Journey  
-
+# Name: Adejumo Oluwapelumi Ajinde
 Welcome to my cybersecurity portfolio!  
 This organization is dedicated to documenting my **hands-on labs, projects, and learning process** as I build skills in:  
 - Penetration Testing & Ethical Hacking  
