@@ -35,7 +35,8 @@ Here’s what you’ll find inside this organization:
 ---
 
 ## 🤝 Connect With Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/oluwapelumi-adejumo-402284235/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/oluwapelumi-adejumo-402284235/)
+- 📁 [Portfolio web](https://oluwapelumi-portfolio-omega.vercel.app/)
 
 
 ---
